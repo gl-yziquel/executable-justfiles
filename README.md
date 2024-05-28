@@ -1,7 +1,9 @@
 Executable Justfiles.
 =====================
 
-In the author's experience, the just tool is very handy to create command line tools in a declarative way.
+In the author's experience, the [just][just] tool is very handy to create command line tools in a declarative way.
+
+[just]: https://just.systems/
 
 We here list some quick examples of how this could be done:
 
